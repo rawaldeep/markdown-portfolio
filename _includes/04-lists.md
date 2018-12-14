@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# The List of things i like.
+* Pizza :yum:
+* koffie :yum:
+* Making List :smirk:
